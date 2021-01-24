@@ -41,7 +41,7 @@ of playing multiple rounds against the Computer and also reset the game at any p
 ****
 
 ## Screenshots of the Application 
-![Initial State of the Application]() .  ![State after Ready Button is Pressed](https://user-images.githubusercontent.com/11196323/35172383-bdb1dc88-fd67-11e7-8993-6ef120178ea5.png)
+![Initial State of the Application](/Readme_Images/Initial) .  ![State after Ready Button is Pressed](https://user-images.githubusercontent.com/11196323/35172383-bdb1dc88-fd67-11e7-8993-6ef120178ea5.png)
 
 
 
