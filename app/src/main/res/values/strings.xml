@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissor</string>
+    <string name="rock_string">Rock</string>
+    <string name="todo">TODO</string>
+    <string name="paper_string">paper</string>
+    <string name="scissors_string">scissors</string>
+    <string name="heading">Enter the number of times you want to play</string>
+    <string name="your_score">Your Score</string>
+    <string name="computer_score">Computer Score</string>
+    <string name="winner_to_be">Winner to be</string>
+</resources>
