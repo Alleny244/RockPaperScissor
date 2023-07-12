@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-Re-create the game of Rock, Paper, Scissors using Kotlin and android studio.
+Re-created the game of Rock, Paper, Scissors using Kotlin and android studio.
 
 ## Built with:
 
